@@ -2,9 +2,9 @@
 
 **Table of Contents:**
 
-1. [Word Classifier: Sports vs Food](#word-classifier-sports-vs-food)
-2. [Number Guessing Game](#number-guessing-game-)
-3. [Capstone Project: Tic Tac Toe Game](#capstone-project-tic-tac-toe-game)
+1. [Word Classifier: Sports vs Food](#Word Classifier: Sports vs Food)
+2. [Number Guessing Game](#Number Guessing Game)
+3. [Capstone Project: Tic Tac Toe Game](#Capstone Project: Tic Tac Toe Game)
 4. [Automated EDA (Exploratory Data Analysis)](#automated-eda-exploratory-data-analysis)
 5. [Full Data Analysis Case-study (E-commerce Website Analysis)](#full-data-analysis-case-study-e-commerce-website-analysis)
 6. [Airbnb Data Analysis: Unveiling Insights in Python](#airbnb-data-analysis-unveiling-insights-in-python)
@@ -12,7 +12,7 @@
 Feel free to insert this Table of Contents at the beginning of your repository's README to help users navigate to the projects they are interested in. Just copy and paste the above content and link each section to its corresponding project description in your README.
 **Word Classifier: Sports vs Food**
 
-🏀🍔 **Description:** This project introduces a word classifier that discerns whether a given sentence is related to sports or food. The concept involves analyzing words in the input sentence, tallying sports-associated and food-associated words, and then determining if the sentence leans towards sports, food, or neutrality.
+ **Description:** 🏀🍔This project introduces a word classifier that discerns whether a given sentence is related to sports or food. The concept involves analyzing words in the input sentence, tallying sports-associated and food-associated words, and then determining if the sentence leans towards sports, food, or neutrality.
 
 **How it Works:**
 
@@ -26,9 +26,9 @@ Experience basic text classification through predefined word lists. Discover how
 
 ---
 
-**Number Guessing Game 🎯🔮**
+**Number Guessing Game**
 
-**Description:** Embark on a predictive journey with the Number Guessing Game. Predict a concealed number from 0 to 100, refining guesses based on feedback. Sharpen skills through strategic prediction and have fun along the way.
+**Description:**  🎯🔮Embark on a predictive journey with the Number Guessing Game. Predict a concealed number from 0 to 100, refining guesses based on feedback. Sharpen skills through strategic prediction and have fun along the way.
 
 **How It Works:**
 
