@@ -45,9 +45,9 @@ Enhance logical thinking and strategy while enjoying the challenge! 🎉🏆
 
 ---
 
-**Capstone Project: Tic Tac Toe Game**
+## Capstone Project: Tic Tac Toe Game
 
-🎮 **Description:** Create a classic Tic Tac Toe game in Python, played in the command line. Focus on core mechanics using Python's data structures and control flow tools.
+**Description:** 🎮Create a classic Tic Tac Toe game in Python, played in the command line. Focus on core mechanics using Python's data structures and control flow tools.
 
 **Key Steps:**
 
@@ -62,9 +62,9 @@ Experience the thrill of strategic game development and logic-based programming.
 
 ---
 
-**Automated EDA (Exploratory Data Analysis)**
+## Automated EDA (Exploratory Data Analysis)
 
-📊🔍 **Description:** Simplify data analysis with the Automated EDA Toolkit. Preprocess and visualize data efficiently, handling various formats.
+**Description:** 📊🔍Simplify data analysis with the Automated EDA Toolkit. Preprocess and visualize data efficiently, handling various formats.
 
 **Key Features:**
 
@@ -83,7 +83,7 @@ Experience the thrill of strategic game development and logic-based programming.
 
 Enhance data analysis quality and efficiency. Dive into insights effortlessly! 📈📋
 
-**Full Data Analysis Case-study (E-commerce Website Analysis)**
+## Full Data Analysis Case-study (E-commerce Website Analysis)
 
 **Description:** Explore the dynamics of an E-commerce website through comprehensive data analysis.
 
@@ -106,7 +106,7 @@ Uncover the world of E-commerce through data-driven exploration! 🏡📊
 
 ---
 
-**Airbnb Data Analysis: Unveiling Insights in Python**
+## Airbnb Data Analysis: Unveiling Insights in Python
 
 **Description:** Explore the world of Airbnb by analyzing its data to uncover trends and insights.
 
