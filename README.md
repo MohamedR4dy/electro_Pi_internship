@@ -1,6 +1,7 @@
 ## Welcome to My Cloud Projects Repository: Exploring a Diverse Array of Python Creations!
 
 
+
 **Table of Contents:**
 
 1. [Word Classifier: Sports vs Food](#word-classifier-sports-vs-food)
@@ -9,6 +10,8 @@
 4. [Automated EDA (Exploratory Data Analysis)](#automated-eda-exploratory-data-analysis)
 5. [Full Data Analysis Case-study (E-commerce Website Analysis)](#full-data-analysis-case-study-e-commerce-website-analysis)
 6. [Airbnb Data Analysis: Unveiling Insights in Python](#airbnb-data-analysis-unveiling-insights-in-python)
+
+
 
 ## Word Classifier: Sports vs Food
 
